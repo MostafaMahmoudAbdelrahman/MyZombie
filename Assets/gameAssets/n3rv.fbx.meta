@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 31f9862d639d2594db3fc0212ca83269
+timeCreated: 1500928580
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Camera.001
+    100004: Circle
+    100006: Circle.001
+    100008: Circle.002
+    100010: Circle.003
+    100012: crosshair
+    100014: Cube
+    100016: Cube.002
+    100018: Cube.003
+    100020: Cube.004
+    100022: Empty
+    100024: Hemi
+    100026: Hemi.001
+    100028: Holo
+    100030: N3r-V
+    100032: N3r-V.002
+    100034: //RootNode
+    100036: Plane.003
+    100038: Plane.004
+    100040: Seethru
+    100042: Sun
+    100044: Sun.001
+    100046: Sun.002
+    100048: Sun.003
+    100050: Sun.004
+    100052: Sun.005
+    100054: Text.004
+    100056: Text.005
+    100058: Text.006
+    100060: Text.007
+    400000: Camera
+    400002: Camera.001
+    400004: Circle
+    400006: Circle.001
+    400008: Circle.002
+    400010: Circle.003
+    400012: crosshair
+    400014: Cube
+    400016: Cube.002
+    400018: Cube.003
+    400020: Cube.004
+    400022: Empty
+    400024: Hemi
+    400026: Hemi.001
+    400028: Holo
+    400030: N3r-V
+    400032: N3r-V.002
+    400034: //RootNode
+    400036: Plane.003
+    400038: Plane.004
+    400040: Seethru
+    400042: Sun
+    400044: Sun.001
+    400046: Sun.002
+    400048: Sun.003
+    400050: Sun.004
+    400052: Sun.005
+    400054: Text.004
+    400056: Text.005
+    400058: Text.006
+    400060: Text.007
+    2300000: Circle
+    2300002: Circle.001
+    2300004: Circle.002
+    2300006: Circle.003
+    2300008: Cube
+    2300010: Cube.002
+    2300012: Cube.003
+    2300014: Cube.004
+    2300016: Holo
+    2300018: N3r-V
+    2300020: N3r-V.002
+    2300022: Plane.003
+    2300024: Plane.004
+    2300026: Seethru
+    2300028: Text.004
+    2300030: Text.005
+    2300032: Text.006
+    2300034: Text.007
+    3300000: Circle
+    3300002: Circle.001
+    3300004: Circle.002
+    3300006: Circle.003
+    3300008: Cube
+    3300010: Cube.002
+    3300012: Cube.003
+    3300014: Cube.004
+    3300016: Holo
+    3300018: N3r-V
+    3300020: N3r-V.002
+    3300022: Plane.003
+    3300024: Plane.004
+    3300026: Seethru
+    3300028: Text.004
+    3300030: Text.005
+    3300032: Text.006
+    3300034: Text.007
+    4300000: Holo
+    4300002: N3r-V.002
+    4300004: Seethru
+    4300006: Cube.004
+    4300008: Cube.003
+    4300010: Circle.001
+    4300012: Circle
+    4300014: Text.007
+    4300016: Text.006
+    4300018: Text.005
+    4300020: Text.004
+    4300022: Circle.003
+    4300024: Plane.004
+    4300026: Cube
+    4300028: Cube.002
+    4300030: Circle.002
+    4300032: Plane.003
+    4300034: N3r-V
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
